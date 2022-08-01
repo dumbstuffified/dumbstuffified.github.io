@@ -1,2 +1,2 @@
 # #download#
-[click here](/en_rico.exe)
+[click here](/dl/en rico.exe)
