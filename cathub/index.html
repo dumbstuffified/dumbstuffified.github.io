@@ -1,5 +1,9 @@
 <h1>CatHub Error Page</h1>
 If you are seeing this, CatHub is down or not functioning right now.
 <script>
-  window.location.replace("https://dumbstuffified.github.io");
+  const cats = [];
+  function getRndInteger(min, max) {
+  return Math.floor(Math.random() * (max - min) ) + min;
+}
+  window.location.replace(`https://dumbstuffified.github.io/`);
 </script>
